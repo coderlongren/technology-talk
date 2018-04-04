@@ -90,6 +90,7 @@
 
 *	分布式协调服务
 	* [zookeeper](middle-software/zookeeper.md)
+	* [zipkin分布式链路追踪](https://blog.csdn.net/u013815546/article/details/73086975)
 	
 *   大数据
 	* [Hbase](middle-software/Hbase.md)
@@ -106,6 +107,7 @@
 
 *   分布式文件系统
 	* [FastDFS](middle-software/FastDFS.md)
+	* [GlusterFS](https://docs.gluster.org/en/latest/Quick-Start-Guide/Quickstart/)
 
 *  其它
 	* [数据库binlog的增量订阅&消费组件](https://github.com/alibaba/canal)
