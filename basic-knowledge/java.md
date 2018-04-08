@@ -7,7 +7,8 @@
 
 * 基本语法
 
-	基本数据类型；运算符；表达式；选择与循环语句；类与对象（普通类、[抽象类](https://blog.csdn.net/wei_zhi/article/details/52736350)、接口、枚举、Annotation、内部类）；继承与实现；异常；package与jar包；序列化与反序列化；正则表达式；重载与覆盖；
+	基本数据类型；运算符；表达式；选择与循环语句；类与对象（普通类、[抽象类](https://blog.csdn.net/wei_zhi/article/details/52736350)、接口、[枚举](https://blog.csdn.net/javazejian/article/details/71333103)、[Annotation]
+(https://blog.csdn.net/javazejian/article/details/71860633)、内部类）；继承与实现；异常；package与jar包；序列化与反序列化；正则表达式；重载与覆盖；
 * 数组
 
 	一维数组；二维数组。。。
