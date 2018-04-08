@@ -29,7 +29,7 @@
 
 	提供api方法取得类的结构；调用类的方法；动态代理
 * java特性
-        ［封装继承多态］(https://www.jianshu.com/p/1d6219ad43a1)
+        [封装继承多态](https://www.jianshu.com/p/1d6219ad43a1)
 
 #####  源码分析
 
