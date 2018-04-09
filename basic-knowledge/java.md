@@ -41,7 +41,7 @@
 	
 	TCP编程；UDP编程
 * 泛型
-* 反射
+* [反射](https://blog.csdn.net/javazejian/article/details/70768369)
 
 	提供api方法取得类的结构；调用类的方法；动态代理
 * java特性
