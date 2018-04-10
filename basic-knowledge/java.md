@@ -76,6 +76,7 @@
 * 	[Exception](java-exception.md)
 * 	[各种坑](各种坑.md)
 * 	[IO类型](java-io.md)
+*       [SOLID原则](https://blog.csdn.net/bao19901210/article/details/54286774)
 
 * ###### NIO
 	* 	[NIO](NIO.md)
