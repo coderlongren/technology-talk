@@ -21,7 +21,7 @@
 	继承与实现；
 	[异常](http://www.cnblogs.com/dolphin0520/p/3769804.html)；
 	package与jar包；
-	序列化与反序列化；
+	[序列化与反序列化](http://www.cnblogs.com/xdp-gacl/p/3777987.html)；
 	正则表达式；
 	重载与覆盖；
 * 数组
