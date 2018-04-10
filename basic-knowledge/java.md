@@ -19,7 +19,7 @@
 	[Annotation](https://blog.csdn.net/javazejian/article/details/71860633)
 	、内部类）；
 	继承与实现；
-	异常；
+	[异常](http://www.cnblogs.com/dolphin0520/p/3769804.html)；
 	package与jar包；
 	序列化与反序列化；
 	正则表达式；
