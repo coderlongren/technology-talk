@@ -9,6 +9,7 @@
 * [应用场景](elasticsearch-application.md)
 * [进阶型原理](elasticsearch-theory.md)
 * [Restful命令](elasticsearch-rest.md)
+* [死磕 Elasticsearch 方法论](https://elasticsearch.cn/article/561)
 
 ### 社区资料
 
