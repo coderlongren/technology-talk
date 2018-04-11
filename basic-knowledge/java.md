@@ -24,6 +24,7 @@
 	[序列化与反序列化](http://www.cnblogs.com/xdp-gacl/p/3777987.html)；
 	正则表达式；
 	重载与覆盖；
+	[java 8异步编程](https://blog.csdn.net/tangyongzhe/article/details/49851769)
 * 数组
 
 	一维数组；二维数组。。。
