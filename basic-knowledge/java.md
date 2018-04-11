@@ -24,7 +24,6 @@
 	[序列化与反序列化](http://www.cnblogs.com/xdp-gacl/p/3777987.html)；
 	正则表达式；
 	重载与覆盖；
-	[java 8异步编程](https://blog.csdn.net/tangyongzhe/article/details/49851769)
 * 数组
 
 	一维数组；二维数组。。。
@@ -114,7 +113,8 @@
 *   [JavaEE 7 正式发布](http://www.iteye.com/news/27980)
 *   [Java 8-从持久代到metaspace](https://mp.weixin.qq.com/s/w_Uqi5PBkWCqh7qHq6XaKw)
 *   [Java 8的新特性—终极版](https://mp.weixin.qq.com/s/CWNIRk9xGu2XSbrWELTKNg)
-* 	[Java 9 中的新特性](https://mp.weixin.qq.com/s/YalBtZ_dZayMec8aprk6Xw)
+*   [java 8异步编程](https://blog.csdn.net/tangyongzhe/article/details/49851769)
+*   [Java 9中的新特性](https://mp.weixin.qq.com/s/YalBtZ_dZayMec8aprk6Xw)
 
 ### 五、其它
 * 	[随机数生成 --- NativePRNGNonBlocking ](http://hongjiang.info/java8-nativeprng-blocking/)
