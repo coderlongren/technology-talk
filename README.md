@@ -31,6 +31,8 @@
 * 	[SQL调优](data-base/sql-optimize.md)
 * 	[其它](data-base/other.md)
 
+### 算法
+* 	[Leetcode题解](https://legacy.gitbook.com/book/lidinghao/leetcode-java/details)
 
 ### web容器/协议/网络
 
