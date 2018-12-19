@@ -13,7 +13,7 @@
 	选择与循环语句；
 	类与对象（
 	普通类、
-	[抽象类](https://blog.csdn.net/wei_zhi/article/details/52736350)、
+	[抽象类](https://blog.csdn.net/wei_zhi/article/details/52736350) [参考文章](https://www.jianshu.com/p/d8f06ad45135)、
 	接口、
 	[枚举](https://blog.csdn.net/javazejian/article/details/71333103)、
 	[Annotation](https://blog.csdn.net/javazejian/article/details/71860633)
